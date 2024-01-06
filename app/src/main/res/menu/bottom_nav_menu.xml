@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/f1"
+        android:icon="@drawable/ic_navigation_heart"
+        android:title="" />
+    <item
+        android:id="@+id/f2"
+        android:icon="@drawable/ic_navigation_pokeball"
+        android:title="" />
+    <item
+        android:id="@+id/f3"
+        android:icon="@drawable/ic_navigation_user"
+        android:title="" />
+</menu>
