@@ -1,0 +1,1 @@
+![](preview/pokemon-recyclerview.gif)
