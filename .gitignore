@@ -1,3 +1,6 @@
+.idea
+.kotlin
+
 # Built application files
 *.apk
 *.ap_
