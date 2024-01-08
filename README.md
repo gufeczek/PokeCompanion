@@ -28,7 +28,7 @@
 
 ## Architecture:
 <p align="center">
-    <img src="preview/architecture-diagram.png" width="300px">
+    <img src="preview/architecture-diagram.png" width="600px">
 </p>
 PokeCompanion is based on Model-View-ViewModel architecture pattern and Repository pattern.
 
